@@ -9,4 +9,5 @@ Each team should fork this repository and perform exercises in their own forked 
 - Branch management with merge, rebase, squash
 - Collaboration using issues and pull requests
 
-
+# 참가자
+1. 김우성 (2020004009)
