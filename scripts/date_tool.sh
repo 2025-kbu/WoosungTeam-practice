@@ -7,3 +7,6 @@ if [ $# -eq 0 ]; then
 fi
 
 date --date="$1" +"%Y-%m-%d"
+echo "imsungu practice"
+
+
